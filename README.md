@@ -2,9 +2,7 @@
 
 ### Blockchain Data Analyst | On-Chain Analytics | DeFi Research
 
-I'm a blockchain data analyst with over 5 years of experience
-in the Web3 ecosystem, combining industry knowledge with
-technical skills to extract meaningful insights from on-chain data.
+I'm a Blockchain Data Analyst with over five years of experience in the Web3 ecosystem, combining hands-on blockchain industry knowledge with technical expertise in data analytics to uncover meaningful insights from on-chain data.
 
 My work focuses on analyzing blockchain network activity,
 transaction patterns, user behavior, and DeFi ecosystems
