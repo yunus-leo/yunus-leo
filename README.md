@@ -1,4 +1,4 @@
-# Hi, I'm Leo 👋
+# Hi, I'm Yunusa 👋
 
 ### Blockchain Data Analyst | On-Chain Analytics | DeFi Research
 
@@ -100,4 +100,4 @@ analytics, on-chain research, and DeFi analytics.
 
 - **GitHub:** [yunus-leo](https://github.com/yunus-leo)
 
-- **X (Twitter):** Add your X profile
+- **X (Twitter):** (https://twitter.com/Yunus_Leo1)
