@@ -29,9 +29,12 @@ data-driven decisions.
 - Statistical Analysis
 - Data Cleaning & Transformation
 
-**Data Visualization**
+**Data Visualization & Business Intelligence**
+- Power BI
+- Google Looker Studio
 - Matplotlib
 - Plotly
+- Interactive Dashboard Development
 
 **Data Platforms & Tools**
 - Google BigQuery
@@ -39,12 +42,13 @@ data-driven decisions.
 - Jupyter Notebook / Lab
 - Git & GitHub
 
-**Blockchain Domain Knowledge**
-- On-Chain Analytics
-- Ethereum & EVM Networks
+**Blockchain & Web3 Domain Knowledge**
+- Blockchain & On-Chain Analytics
+- Ethereum, Solana & BNB Chain Ecosystems
 - Decentralized Finance (DeFi)
+- Decentralized Exchanges (DEXs) & Crypto Trading
 - Blockchain Transactions & Gas Markets
-
+- Cross-Chain Transactions & Token Bridging
 ---
 
 ## 📊 Featured Project
@@ -100,4 +104,4 @@ analytics, on-chain research, and DeFi analytics.
 
 - **GitHub:** [yunus-leo](https://github.com/yunus-leo)
 
-- **X (Twitter):** (https://twitter.com/Yunus_Leo1)
+- **X (Twitter):** [X](https://twitter.com/Yunus_Leo1)
