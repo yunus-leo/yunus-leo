@@ -70,7 +70,7 @@ Ethereum Mainnet activity over a 30-day observation window.
 **Methodology:**
 
 Extracted and aggregated Ethereum blockchain data using
-Google BigQuery and SQL, followed by data validation,
+Google BigQuery and SQL, followed by data cleaning, validation,
 exploratory analysis, statistical evaluation, and
 visualization using Python.
 
